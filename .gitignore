@@ -30,3 +30,4 @@ flagged/
 venv/
 output/
 .env
+__pycache__/
